@@ -1,0 +1,5 @@
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\2025Spring\CIS-150-102\GitHub\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\2025Spring\CIS-150-102\GitHub\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\2025Spring\CIS-150-102\GitHub\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\2025Spring\CIS-150-102\GitHub\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\2025Spring\CIS-150-102\GitHub\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.sourcelink.json

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\2025Spring\\CIS-150-102\\GitHub\\EmployeeManagement\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD84227B-5E77-4E82-8C11-108B981BB344}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\2025spring\\cis-150-102\\github\\employeemanagement\\employeemanagement\\employeemanagement\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD84227B-5E77-4E82-8C11-108B981BB344}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD84227B-5E77-4E82-8C11-108B981BB344}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\2025spring\\cis-150-102\\github\\employeemanagement\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD84227B-5E77-4E82-8C11-108B981BB344}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\2025Spring\\CIS-150-102\\GitHub\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Employee.cs",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\2025Spring\\CIS-150-102\\GitHub\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Employee.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:36:22.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\2025Spring\\CIS-150-102\\GitHub\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\2025Spring\\CIS-150-102\\GitHub\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:22:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
