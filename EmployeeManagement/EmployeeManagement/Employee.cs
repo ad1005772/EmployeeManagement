@@ -7,12 +7,13 @@ using System.Xml.Linq;
 
 namespace EmployeeManagement
 {
-    internal class EmployeeClass
+    internal class Employee
     {
         public int id { get; set; }
         public string name { get; set; }
         public string department { get; set; }
         public decimal baseSalary { get; set; }
+        decimal hours = 2080;//2080 is average hours 40hr/wk employee works
         public Employee(int ID, string Name, string Department, decimal BaseSalary)
         {
             id = ID;
@@ -21,12 +22,12 @@ namespace EmployeeManagement
             baseSalary = BaseSalary;
         }
 
-        public void CalculatePay()
+        public virtual decimal CalculatePay()
         {
-            decimal pay = baseSalary * 2080;//number of hours for 40hr/week employee in a year 
+            return baseSalary;
         }
 
-        public void DisplayEmployeeDetails()
+        public virtual void DisplayEmployeeDetails()
         {
             Console.WriteLine($"ID: {id}, Name: {name}, Department = {department}, Base Salary: {baseSalary}");
         } 
